@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mehedi Hasan
-Skills: HTML, CSS, JS, ReactJS
-Email: mehedievo@gmail.com
-{{/user}}
